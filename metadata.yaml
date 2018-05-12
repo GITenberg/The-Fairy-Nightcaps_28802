@@ -1,0 +1,34 @@
+_repo: The-Fairy-Nightcaps_28802
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28802-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fanny, Aunt
+    aliases:
+    - Mease, Frances Elizabeth
+    - Aunt Fanny
+    - Barrow, Frances Elizabeth
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '33364'
+    url: http://www.gutenberg.org/2009/agents/33364
+description: The fairies' life, with an account of what they did in the beautiful
+  hollow -- The children's life, with their journey to West Point --The fairies' life,
+  with an account of Idlewild, the stag dance, the battle of the fairies, &c. -- The
+  death of Charley.
+gutenberg_issued: '2009-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Fairy Nightcaps
+url: http://www.gutenberg.org/ebooks/28802
